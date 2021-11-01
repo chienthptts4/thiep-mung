@@ -1,6 +1,6 @@
 const nameGirl = 'Hey Nàng Thơ';
 const giftUrl = 'https://www.facebook.com/yemi.jeon.98';
-const eventName = 'Chúc mừng sinh nhật của emm.!!!';
+const eventName = 'Chúc mừng sinh nhật của emm';
 const titleCard = 'Tặng người ấy';
 const contentCard = 'Chúc nàng thơ của anh một ngày sinh nhật tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
 
